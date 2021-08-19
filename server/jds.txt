@@ -1,0 +1,1 @@
+mongodb+srv://aasim:<password>@cluster0.p8ful.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
