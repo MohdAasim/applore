@@ -1,0 +1,37 @@
+.cards {
+    width: 100%;
+    height: auto;
+  }
+  .card {
+    background-color: #fff !important;
+    width: 35.25%;
+    border-radius: 12px;
+    box-shadow: 0 13px 10px -7px rgba(0, 0, 0, 0.1);
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0, 1);
+  }
+  .fk .input-icons .i { 
+    position: absolute; 
+} 
+  
+.fk .input-icons { 
+    width: 100%;   
+} 
+.fk .icon { 
+    min-width: 60px;
+    text-align: center; 
+} 
+
+.fk .input-field { 
+    width: 100%; 
+    padding: 10px;   
+    padding-left: 50px; 
+    border-radius: 0%;
+    border:none;
+    background-color: rgb(232, 240, 254);
+} 
+
+@media (max-width: 400px) {
+  .card{
+    width: 95.25%;
+  }
+}
